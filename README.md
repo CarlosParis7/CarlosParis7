@@ -18,7 +18,7 @@ When I build, I optimize for **business value, reduced operational drag, and rev
 ## 📌 Featured Products
 ### 📦 [B2B and B2C SaaS (Formerly poboxweb)](#)
 End-to-end logistics platform designed for operational management, cost tracking, and precise profitability control in freight forwarding.
-file:///F:/BoxExpress%20Business%20Management%20Dashboard%20Interface.png
+<div class="screenshot-editor_stage__hW screenshot-editor_stageWithBorder_ABJ"><div class="konvajs-content" role="presentation" style="position: relative; user-select: none; width: 1941px; height: 995.521px;"><canvas width="1941" height="995" style="padding: 0px; margin: 0px; border: 0px; background: transparent; position: absolute; top: 0px; left: 0px; width: 1941px; height: 995.521px; display: block;"></canvas></div></div>
 ### 🤖 [AI Knowledge Copilot](#)
 A business-focused AI assistant that integrates with existing knowledge bases to provide instant, actionable insights for decision-makers.
 ### 💬 [WhatsApp Lead Engine](#)
