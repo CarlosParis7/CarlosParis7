@@ -16,7 +16,7 @@ When I build, I optimize for **business value, reduced operational drag, and rev
 * **Applied AI**: RAG Architecture, OpenAI API, Prompt Engineering
 * **Data & Ops**: PostgreSQL, Supabase, Vercel, Cost Control Modeling
 ## 📌 Featured Products
-### 📦 [B2B and B2C SaaS (Formerly poboxweb)](https://poboxweb.vercel.app/)
+### 📦 [B2B and B2C SaaS](https://poboxweb.vercel.app/)
 End-to-end logistics platform designed for operational management, cost tracking, and precise profitability control in freight forwarding.
 ### 🤖 [AI Knowledge Copilot]()
 A business-focused AI assistant that integrates with existing knowledge bases to provide instant, actionable insights for decision-makers.
