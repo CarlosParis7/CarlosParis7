@@ -1,6 +1,6 @@
 # Carlos E. Paris
 **Founder | Product Engineer | AI & Automation Operator**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/carlos-paris21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]()
 [![Website](https://img.shields.io/badge/Website-Visit-success?style=flat-square&logo=globe)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](#)
 > Transforming logistics operations through applied intelligence, scalable architecture, and aggressive automation.
