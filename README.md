@@ -22,6 +22,7 @@ End-to-end logistics platform designed for operational management, cost tracking
 A business-focused AI assistant that integrates with existing knowledge bases to provide instant, actionable insights for decision-makers.
 ### 💬 [WhatsApp Lead Engine](https://whatsapp-automation-landing-olive.vercel.app/)
 Configurable automation pipeline that qualifies B2B leads via WhatsApp and seamlessly routes them into enterprise CRMs.
+
 ---
 ## 🤝 Let's Connect
 I'm always open to discussing B2B SaaS architecture, AI use cases in logistics, or potential partnerships. 
