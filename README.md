@@ -18,6 +18,7 @@ When I build, I optimize for **business value, reduced operational drag, and rev
 ## 📌 Featured Products
 ### 📦 [B2B and B2C SaaS (Formerly poboxweb)](#)
 End-to-end logistics platform designed for operational management, cost tracking, and precise profitability control in freight forwarding.
+https://www.loom.com/i/db3b350edd1040b09507083860bde816
 ### 🤖 [AI Knowledge Copilot](#)
 A business-focused AI assistant that integrates with existing knowledge bases to provide instant, actionable insights for decision-makers.
 ### 💬 [WhatsApp Lead Engine](#)
