@@ -1,6 +1,6 @@
 # Carlos E. Paris
 **Founder | Product Engineer | AI & Automation Operator**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](#)
+[![LinkedIn](www.linkedin.com/in/carlos-paris21)](#)
 [![Website](https://img.shields.io/badge/Website-Visit-success?style=flat-square&logo=globe)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](#)
 > Transforming logistics operations through applied intelligence, scalable architecture, and aggressive automation.
@@ -16,7 +16,7 @@ When I build, I optimize for **business value, reduced operational drag, and rev
 * **Applied AI**: RAG Architecture, OpenAI API, Prompt Engineering
 * **Data & Ops**: PostgreSQL, Supabase, Vercel, Cost Control Modeling
 ## 📌 Featured Products
-### 📦 [Parcel Management SaaS (Formerly poboxweb)](#)
+### 📦 [B2B and B2C SaaS (Formerly poboxweb)](#)
 End-to-end logistics platform designed for operational management, cost tracking, and precise profitability control in freight forwarding.
 ### 🤖 [AI Knowledge Copilot](#)
 A business-focused AI assistant that integrates with existing knowledge bases to provide instant, actionable insights for decision-makers.
@@ -25,6 +25,5 @@ Configurable automation pipeline that qualifies B2B leads via WhatsApp and seaml
 ---
 ## 🤝 Let's Connect
 I'm always open to discussing B2B SaaS architecture, AI use cases in logistics, or potential partnerships. 
-* 📩 **Email**: carlos@bytelabs.example.com
-* 📅 **Book a chat**: [Calendly Link](#)
+* 📩 **Email**: bytelabs10@gmail.com
 > *"Great software isn't just about clean code; it's about solving complex business problems elegantly."*
