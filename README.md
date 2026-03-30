@@ -18,7 +18,7 @@ When I build, I optimize for **business value, reduced operational drag, and rev
 ## 📌 Featured Products
 ### 📦 [B2B and B2C SaaS](https://poboxweb.vercel.app/)
 End-to-end logistics platform designed for operational management, cost tracking, and precise profitability control in freight forwarding.
-### 🤖 [AI Knowledge Copilot](https://ai-knowledge-copilot-web.vercel.app/dashboard/)](https://ai-knowledge-copilot-web.vercel.app/dashboard))
+### 🤖 [AI Knowledge Copilot](https://ai-knowledge-copilot-web.vercel.app/dashboard/)
 A business-focused AI assistant that integrates with existing knowledge bases to provide instant, actionable insights for decision-makers.
 ### 💬 [WhatsApp Lead Engine](https://whatsapp-automation-landing-olive.vercel.app/)
 Configurable automation pipeline that qualifies B2B leads via WhatsApp and seamlessly routes them into enterprise CRMs.
