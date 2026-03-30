@@ -1,8 +1,8 @@
 # Carlos E. Paris
 **Founder | Product Engineer | AI & Automation Operator**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/carlos-paris21/)
-[![Portfolio](https://img.shields.io/badge/Website-Visit-success?style=flat-square&logo=globe)]()
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](#)
+[![Portfolio](https://img.shields.io/badge/Website-Visit-success?style=flat-square&logo=globe)](https://portfolio-cp-ashen.vercel.app/)
+[![X](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](#)
 > Transforming logistics operations through applied intelligence, scalable architecture, and aggressive automation.
 I am a Product Engineer and Founder at **Byte Labs**, based in Panama. I don't just write code; I build **business engines**. My core focus is developing end-to-end B2B SaaS platforms that solve real-world operational bottlenecks, specifically in logistics, cost control, and profitability. 
 When I build, I optimize for **business value, reduced operational drag, and revenue growth**.
