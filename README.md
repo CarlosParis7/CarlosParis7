@@ -1,8 +1,8 @@
 # Carlos E. Paris
-**Founder | Product Engineer | AI & Automation Operator**
+**Product Engineer | AI & Automation**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/carlos-paris21/)
 [![Portfolio](https://img.shields.io/badge/Website-Visit-success?style=flat-square&logo=globe)](https://portfolio-cp-ashen.vercel.app/)
-> Transforming logistics operations through applied intelligence, scalable architecture, and aggressive automation.
+> I build AI-powered systems that automate operations and generate measurable business value.
 I am a Product Engineer and Founder at **Byte Labs**, based in Panama. I don't just write code; I build **business engines**. My core focus is developing end-to-end B2B SaaS platforms that solve real-world operational bottlenecks, specifically in logistics, cost control, and profitability. 
 When I build, I optimize for **business value, reduced operational drag, and revenue growth**.
 ## 🎯 What I'm Building Currently
@@ -16,9 +16,14 @@ When I build, I optimize for **business value, reduced operational drag, and rev
 * **Data & Ops**: PostgreSQL, Supabase, Vercel, Cost Control Modeling
 ## 📌 Featured Products
 ### 📦 [B2B and B2C SaaS](https://poboxweb.vercel.app/)
-End-to-end logistics platform designed for operational management, cost tracking, and precise profitability control in freight forwarding.
+End-to-end system for parcel tracking, cost control, and profitability management in freight operations.
+
+Built with: Next.js, Supabase, PostgreSQL
+Focus: reducing operational overhead and improving margins
 ### 🤖 [AI Knowledge Copilot](https://ai-knowledge-copilot-web.vercel.app/dashboard/)
-A business-focused AI assistant that integrates with existing knowledge bases to provide instant, actionable insights for decision-makers.
+AI assistant that transforms company data into actionable insights for decision-making.
+Built with: OpenAI API, vector databases, custom RAG pipelines
+Use case: internal knowledge retrieval + business intelligence
 ### 💬 [WhatsApp Lead Engine](https://whatsapp-automation-landing-olive.vercel.app/)
 Configurable automation pipeline that qualifies B2B leads via WhatsApp and seamlessly routes them into enterprise CRMs.
 
