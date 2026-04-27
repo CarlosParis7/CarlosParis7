@@ -5,7 +5,7 @@
 > I build AI-powered systems that automate operations and generate measurable business value.
 I am a Product Engineer and Founder at **Byte Labs**, based in Panama. I don't just write code; I build **business engines**. My core focus is developing end-to-end B2B SaaS platforms that solve real-world operational bottlenecks, specifically in logistics, cost control, and profitability. 
 When I build, I optimize for **business value, reduced operational drag, and revenue growth**.
-## 🎯 What I'm Building Currently
+## 🚀 What I’ve Built
 - **Logistics Operating Systems**: Comprehensive SaaS platforms to manage parcels, operational costs, and freight tracking.
 - **Applied AI for Business**: RAG-based copilots that turn static enterprise data into interactive, decision-making systems.
 - **WhatsApp Automation Engines**: Robust backend workflows (using n8n, AI, and ManyChat) to automate lead capture and customer interactions at scale.
