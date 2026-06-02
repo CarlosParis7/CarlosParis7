@@ -30,6 +30,6 @@ Focus: increasing conversion rates and reducing manual work
 
 ---
 ## 🤝 Let's Connect
-I'm always open to discussing B2B SaaS architecture, AI use cases in logistics, or potential partnerships. 
+I'm always open to discussing B2B SaaS architecture, AI use cases in systems or potential partnerships. 
 * 📩 **Email**: bytelabs10@gmail.com
 > *"Great software isn't just about clean code; it's about solving complex business problems elegantly."*
