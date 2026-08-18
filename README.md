@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Carlos Paris — Product Engineer, Founder at bytelabs." src="./assets/header-dark.svg" width="100%">
+  <img alt="Carlos Paris — Product Engineer, Founder at bytelabs." src="./header.png" width="100%">
 </picture>
 
 <br/>
