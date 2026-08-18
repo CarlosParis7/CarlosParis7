@@ -29,7 +29,7 @@ I'm the founder and engineer at **bytelabs.**, which means I do discovery calls 
 
 | Product | What it solves | Built with |
 | :--- | :--- | :--- |
-| **CobrIx** | Restaurant and bar POS built for venues that lose internet three times a week — order lifecycle, split bills, pre-checks, and Panamanian electronic invoicing | React · NestJS · SQLite/Supabase · PM2 |
+| **Cobrix** | Restaurant and bar POS built for venues that lose internet three times a week — order lifecycle, split bills, pre-checks, and Panamanian electronic invoicing | React · NestJS · SQLite/Supabase · PM2 |
 | **[SwiftPOS](https://swiftpospty.vercel.app/)** | Retail point of sale for small shops: inventory, sales, and the reporting an accountant actually asks for | Next.js · Supabase · PostgreSQL |
 | **[Logistics OS](https://poboxweb.vercel.app/)** | Parcel tracking, cost control and margin visibility for freight operators who were running on WhatsApp and Excel | Next.js · Supabase · PostgreSQL |
 | **[AI Knowledge Copilot](https://ai-knowledge-copilot-web.vercel.app/dashboard/)** | Turns a company's scattered internal documents into something you can ask questions to | RAG pipeline · vector search · OpenAI API |
