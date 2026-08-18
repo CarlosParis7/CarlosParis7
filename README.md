@@ -30,7 +30,7 @@ I'm the founder and engineer at **bytelabs.**, which means I do discovery calls 
 | Product | What it solves | Built with |
 | :--- | :--- | :--- |
 | **Cobrix** | Restaurant and bar POS built for venues that lose internet three times a week — order lifecycle, split bills, pre-checks, and Panamanian electronic invoicing | React · NestJS · SQLite/Supabase · PM2 |
-| **[SwiftPOS](https://swiftpospty.vercel.app/)** | Retail point of sale for small shops: inventory, sales, and the reporting an accountant actually asks for | Next.js · Supabase · PostgreSQL |
+| **SwiftPOS** | Retail point of sale for small shops: inventory, sales, and the reporting an accountant actually asks for | Next.js · Supabase · PostgreSQL |
 | **[Logistics OS](https://poboxweb.vercel.app/)** | Parcel tracking, cost control and margin visibility for freight operators who were running on WhatsApp and Excel | Next.js · Supabase · PostgreSQL |
 | **[AI Knowledge Copilot](https://ai-knowledge-copilot-web.vercel.app/dashboard/)** | Turns a company's scattered internal documents into something you can ask questions to | RAG pipeline · vector search · OpenAI API |
 | **[WhatsApp Lead Engine](https://whatsapp-automation-landing-olive.vercel.app/)** | Qualifies inbound leads and routes them into a CRM without anyone copy-pasting | n8n · webhooks · AI workflows |
@@ -41,7 +41,7 @@ I'm the founder and engineer at **bytelabs.**, which means I do discovery calls 
 
 Most of what I build follows the same spine. A thin client, a boring API, one source of truth, and the AI and automation layers bolted on the side where they can fail without taking the business down with them.
 
-CobrIx is the clearest example: domain-driven design, optimistic locking on shared orders, idempotency keys per sub-account, and an event-sourced inventory ledger. It runs on-premise first and syncs to the cloud when there's a connection to sync with.
+Cobrix is the clearest example: domain-driven design, optimistic locking on shared orders, idempotency keys per sub-account, and an event-sourced inventory ledger. It runs on-premise first and syncs to the cloud when there's a connection to sync with.
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#12294F','primaryTextColor':'#E6EDFA','primaryBorderColor':'#2F5BFF','lineColor':'#2F5BFF','secondaryColor':'#0B1E3F','tertiaryColor':'#0B1E3F','fontFamily':'ui-monospace, monospace'}}}%%
